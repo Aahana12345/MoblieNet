@@ -1,0 +1,34 @@
+  .heading
+  {
+    width: 40%;
+    margin: 0px;
+    box-shadow:5px 5px 5px pink;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: lime;
+    box-shadow:5px 5px 5px cyan;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px white;
+    font-size: 20px;
+  }
+  .copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 40%;
+    background-color: palegreen;
+    line-height: 2;
+    text-align: center;
+  }
+  .result_para_tag span{
+    white-space:pre-line;
+  }
